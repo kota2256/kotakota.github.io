@@ -1,0 +1,161 @@
+header{
+  width:100%;
+  height:65px;
+  background-color:rgba(0, 0, 0, 0.5);
+  position:fixed;
+  top:0;
+  z-index:10;
+}
+
+.container-header{
+  padding-right: 50px;
+  margin:0 auto;
+}
+
+.header-list li{
+  list-style: none;
+  float:right;
+  padding:5px 30px 0 30px;
+}
+
+.header-list a{
+  color: white;
+  font-size:small;
+}
+
+.top-wrapper{
+  padding:300px 0 500px 0;
+  background-image:url(img/top.JPG) ;
+  background-size:cover;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.copy{
+  padding-top:120px;
+  line-height: 10px;
+}
+
+.copy-eng{
+  padding-bottom: 30px;
+}
+
+.copy-p{
+  padding-bottom: 120px;
+}
+
+.kota-wrapper{
+  width:100%;
+  height:800px;
+  background-color: rgb(248, 248, 248);
+
+}
+.kota{
+  float: left;
+}
+.kota-img{
+  width: 40%;
+  margin:50px 0;
+}
+
+.kota-para{
+  margin-left:200px;
+  padding-top:100px;
+}
+
+h2{
+  padding:100px 0 30px 0;
+  line-height: 10px;
+}
+
+.zausu{
+  font-size: smaller;
+  color:rgb(125, 125, 125);
+  line-height: 2px;
+}
+
+.favo-wrapper{
+  width:100%;
+  height:1400px;
+}
+
+.favo{
+  float: left;
+  width:33%;
+  padding-bottom:50px;
+}
+
+.favo img{
+  width: 95%;
+  padding-bottom:10px;
+}
+
+.favo a{
+  display: inline-block;
+  width:98%;
+  color:black;
+}
+
+.favo p{
+  width: 95%;
+}
+
+.maker{
+  font-size: smaller;
+  color:rgb(125, 125, 125);
+}
+
+.photo-wrapper{
+  width:100%;
+  height:1000px;
+  background-color: rgb(248, 248, 248);
+}
+  
+footer{
+  width:100%;
+  height:150px;
+  background-color:rgb(15, 15, 15);
+}
+
+.footer{
+  float:left;
+  padding-left:50px;
+  color:white;
+  line-height: 110px;
+}
+
+.f-eng{
+  padding-top:10px;
+  opacity: 0.5;
+  font-size: smaller;
+}
+
+.photo {
+  float:left;
+  width:20%;
+  padding:0 58.5px 58.5px 0;
+}
+.btn{
+  text-align: center;
+}
+
+.btn-insta{
+  color:black;
+  display:inline-block;
+  padding-top:40px;
+}
+
+.fa{
+  margin-right: 8px;
+}
+
+.btn p{
+  font-size: smaller;
+  color: rgb(125, 125, 125);
+  padding-bottom: 90px;
+}
